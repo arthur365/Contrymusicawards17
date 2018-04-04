@@ -1931,3 +1931,17 @@ body {
 .cid-qNvRzl4GBk H1 {
   color: #4f4943;
 }
+.cid-qOfn0HtX99 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #232323;
+  background: linear-gradient(0deg, #232323, #ffffff);
+}
+.cid-qOfn0HtX99 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qOfn0HtX99 .video-block {
+    width: 100% !important;
+  }
+}
